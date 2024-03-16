@@ -1,8 +1,6 @@
 # Hotel Management
-
 This is a simple hotel management system built using Python and MySQL. It allows users to perform various operations such as adding room details, managing room bookings, and displaying customer information.
-
-
+ ![Hotel Management System Demo](https://cdn.dribbble.com/users/6498639/screenshots/15138706/media/0262f2a4841a14755bd96261e11b6334.gif)
 
 ## Features
 
